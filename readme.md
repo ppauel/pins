@@ -1,4 +1,4 @@
-# Unlimited Pins Bot
+# Unlimited Pins Discord App
 
 A work-in-progress fun project to play around with user installable app commands on Discord.
 
