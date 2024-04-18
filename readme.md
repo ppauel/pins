@@ -38,5 +38,6 @@ The app can only access messages to which the context menu command is applied. E
 
 ## ToDo
 
+- [ ] Unpin
 - [ ] Pagination
 - [ ] Attachment store
